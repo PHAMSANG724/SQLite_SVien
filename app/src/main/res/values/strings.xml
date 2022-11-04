@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Phạm Sang - 1811505310437</string>
+    <string name="Them">Thêm</string>
+    <string name="Thoat">Thoát</string>
+    <string name="hoten">Họ Tên</string>
+    <string name="gioitinh">Giới tính</string>
+    <string name="ma_sv">Mã SV</string>
+    <string name="dien_thoai">Điện Thoại</string>
+    <string name="email">Email</string>
+    <string name="them_sv">Thêm sinh viên</string>
+</resources>
